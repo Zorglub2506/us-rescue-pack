@@ -14,6 +14,7 @@ I am not responsible for any crash, error and bugs but I am always here to help 
 Credits
 ******************************************
 Vehicle Dev Authors (UV Template, original 3D models):
+2008 Sterling Firetruck - Roulge
 2016 Ford Explorer - Thehurk & OfficerUnderwood
 2017 Chevrolet Silverado - Mcgarret
 
