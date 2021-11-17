@@ -1,4 +1,4 @@
-# us-rescue-pack
+# Los Santos Fire Dept. vehicle pack
 ******************************************
 Disclaimer
 ******************************************
